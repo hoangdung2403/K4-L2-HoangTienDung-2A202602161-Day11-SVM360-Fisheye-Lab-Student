@@ -1,0 +1,9 @@
+﻿camera_id,slice_type,frames,risk,rationale
+front,normal,35,medium,Đại diện cảnh quan sát ổn định; dùng làm baseline cho camera front.
+front,hard,15,high,"Ưu tiên vật thể ở vùng biên/xa, che khuất hoặc hình học fisheye khó; dễ sai box và thuộc tính."
+rear,normal,35,medium,Đại diện cảnh quan sát ổn định phía sau; dùng làm baseline cho camera rear.
+rear,hard,15,high,"Ưu tiên vùng biên/xa, che khuất và các tình huống hình học khó; dễ nhầm kích thước/vị trí box."
+left,normal,35,medium,Đại diện cảnh quan sát ổn định bên trái; dùng để kiểm tra consistency theo camera.
+left,hard,15,high,"Ưu tiên seam/vùng chuyển tiếp, vùng biên fisheye và vật thể che khuất; cần giữ calibration."
+right,normal,35,medium,Đại diện cảnh quan sát ổn định bên phải; dùng để kiểm tra consistency theo camera.
+right,hard,15,high,"Ưu tiên seam/vùng chuyển tiếp, vùng biên fisheye và vật thể che khuất; cần giữ calibration."

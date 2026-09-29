@@ -1,0 +1,9 @@
+round: r1_craft
+slice: B2-mid
+sha256: e83ab767875b77479c826f480ce528ebc8c895a3ed23297179a4ec77d89ca892
+code: E83A-B767
+locked_at: 2026-09-29T22:22:24+07:00
+shapes: box=19
+prefill_kept: 0
+prefill_edited: 4
+new: 15

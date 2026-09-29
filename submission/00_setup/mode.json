@@ -1,0 +1,19 @@
+{
+  "members": [
+    "dung",
+    "thang",
+    "tiendung"
+  ],
+  "assignments": {
+    "dung": "B2-edge",
+    "thang": "B4-edge",
+    "tiendung": "B2-mid"
+  },
+  "self": "tiendung",
+  "slice": "B2-mid",
+  "degrade": [],
+  "current_slice": "C0",
+  "support_prefill": false,
+  "support_slice": "",
+  "prefill_box_ids": []
+}

@@ -1,0 +1,9 @@
+round: calib
+slice: C0
+sha256: ad78fd2e437b7698c789c86365a5aef9cda2297b4b8fbf02bafd9071a86073cf
+code: AD78-FD2E
+locked_at: 2026-09-29T21:55:15+07:00
+shapes: polygon=2
+prefill_kept: 0
+prefill_edited: 0
+new: 0
